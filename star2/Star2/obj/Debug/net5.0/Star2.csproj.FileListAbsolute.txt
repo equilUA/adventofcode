@@ -1,0 +1,16 @@
+C:\Stars\adventofcode\star2\Star2\bin\Debug\net5.0\Star2.exe
+C:\Stars\adventofcode\star2\Star2\bin\Debug\net5.0\Star2.deps.json
+C:\Stars\adventofcode\star2\Star2\bin\Debug\net5.0\Star2.runtimeconfig.json
+C:\Stars\adventofcode\star2\Star2\bin\Debug\net5.0\Star2.runtimeconfig.dev.json
+C:\Stars\adventofcode\star2\Star2\bin\Debug\net5.0\Star2.dll
+C:\Stars\adventofcode\star2\Star2\bin\Debug\net5.0\ref\Star2.dll
+C:\Stars\adventofcode\star2\Star2\bin\Debug\net5.0\Star2.pdb
+C:\Stars\adventofcode\star2\Star2\obj\Debug\net5.0\Star2.csproj.AssemblyReference.cache
+C:\Stars\adventofcode\star2\Star2\obj\Debug\net5.0\Star2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Stars\adventofcode\star2\Star2\obj\Debug\net5.0\Star2.AssemblyInfoInputs.cache
+C:\Stars\adventofcode\star2\Star2\obj\Debug\net5.0\Star2.AssemblyInfo.cs
+C:\Stars\adventofcode\star2\Star2\obj\Debug\net5.0\Star2.csproj.CoreCompileInputs.cache
+C:\Stars\adventofcode\star2\Star2\obj\Debug\net5.0\Star2.dll
+C:\Stars\adventofcode\star2\Star2\obj\Debug\net5.0\ref\Star2.dll
+C:\Stars\adventofcode\star2\Star2\obj\Debug\net5.0\Star2.pdb
+C:\Stars\adventofcode\star2\Star2\obj\Debug\net5.0\Star2.genruntimeconfig.cache
