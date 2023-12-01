@@ -1,0 +1,16 @@
+C:\Stars\star1\Star1\Star1\bin\Debug\net5.0\Star1.exe
+C:\Stars\star1\Star1\Star1\bin\Debug\net5.0\Star1.deps.json
+C:\Stars\star1\Star1\Star1\bin\Debug\net5.0\Star1.runtimeconfig.json
+C:\Stars\star1\Star1\Star1\bin\Debug\net5.0\Star1.runtimeconfig.dev.json
+C:\Stars\star1\Star1\Star1\bin\Debug\net5.0\Star1.dll
+C:\Stars\star1\Star1\Star1\bin\Debug\net5.0\ref\Star1.dll
+C:\Stars\star1\Star1\Star1\bin\Debug\net5.0\Star1.pdb
+C:\Stars\star1\Star1\Star1\obj\Debug\net5.0\Star1.csproj.AssemblyReference.cache
+C:\Stars\star1\Star1\Star1\obj\Debug\net5.0\Star1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Stars\star1\Star1\Star1\obj\Debug\net5.0\Star1.AssemblyInfoInputs.cache
+C:\Stars\star1\Star1\Star1\obj\Debug\net5.0\Star1.AssemblyInfo.cs
+C:\Stars\star1\Star1\Star1\obj\Debug\net5.0\Star1.csproj.CoreCompileInputs.cache
+C:\Stars\star1\Star1\Star1\obj\Debug\net5.0\Star1.dll
+C:\Stars\star1\Star1\Star1\obj\Debug\net5.0\ref\Star1.dll
+C:\Stars\star1\Star1\Star1\obj\Debug\net5.0\Star1.pdb
+C:\Stars\star1\Star1\Star1\obj\Debug\net5.0\Star1.genruntimeconfig.cache
